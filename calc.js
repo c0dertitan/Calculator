@@ -3,4 +3,3 @@
 3 + 3
 4 + 7
 102 * 98
-console.log('Done!')
